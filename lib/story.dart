@@ -9,3 +9,4 @@ class Story{
     required this.choice2,
 });
 }
+

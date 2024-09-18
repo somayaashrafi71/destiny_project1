@@ -64,6 +64,7 @@ class StoryBrain {
     }
   }
 
+
   void reset() {
     _storyNumber = 0;
   }
