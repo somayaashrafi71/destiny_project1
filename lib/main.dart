@@ -13,7 +13,6 @@ class Destiny extends StatelessWidget {
 }
 
 
-
 class StoryPage extends StatefulWidget {
   _StoryPageState createState() => _StoryPageState();
 }
